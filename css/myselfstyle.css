@@ -1,0 +1,41 @@
+.mytestimonial p {
+    color:#181A1C;
+    background:#FFF;
+    padding:15px;
+    margin:0;
+}
+.mytestimonial .myarrow {
+    margin-left:10px;
+    width:0;
+    border-top:10px solid #FFF;
+    border-left: 20px outset transparent;
+    border-right: 20px outset transparent;
+}
+.mytestimonial .mywhopic {
+    display:inline-block;
+}
+.mytestimonial .mywhopic img {
+    margin-top:10px;
+    width:50px;
+    height:50px;
+    float:left;
+}
+.mytestimonial .mywhopic strong {
+    float:left;
+    margin-top:10px;
+    padding-left:10px;
+}
+.mytestimonial .mywhopic small {
+    display:block;
+    font-size:12px;
+    
+}
+.mytestimonial-text{
+    display:block;
+    font-size:22px;
+    text-align:center;
+    margin:0 auto;
+    margin-top:30px;
+    width:70%;
+    line-height:1.3em;
+}
